@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/main.ab10a712.chunk.js",
+    "main.js.map": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/main.ab10a712.chunk.js.map",
+    "runtime-main.js": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/runtime-main.ca9832fb.js",
+    "runtime-main.js.map": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/runtime-main.ca9832fb.js.map",
+    "static/js/2.0e6e052e.chunk.js": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/2.0e6e052e.chunk.js",
+    "static/js/2.0e6e052e.chunk.js.map": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/2.0e6e052e.chunk.js.map",
+    "index.html": "/toni513/MOD2-Business-Manger-App-Frontend.git/index.html",
+    "static/js/2.0e6e052e.chunk.js.LICENSE.txt": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/js/2.0e6e052e.chunk.js.LICENSE.txt",
+    "static/media/EZ.1a859a58.png": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/media/EZ.1a859a58.png",
+    "static/media/money5.0b2f4d49.jpg": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/media/money5.0b2f4d49.jpg",
+    "static/media/office1.b87a5f4c.png": "/toni513/MOD2-Business-Manger-App-Frontend.git/static/media/office1.b87a5f4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9832fb.js",
+    "static/js/2.0e6e052e.chunk.js",
+    "static/js/main.ab10a712.chunk.js"
+  ]
+}
